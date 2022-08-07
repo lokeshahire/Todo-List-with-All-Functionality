@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "lokesh",
+      "price": 123,
+      "image_url": "https://i.imgur.com/zM6XQ2P.png",
+      "id": 4
+    }
+  ],
+  "task": [
+    {
+      "title": "LEARN NEW FETCH",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "LEARN PATCH",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "LEARN GET ",
+      "status": true,
+      "id": 11
+    },
+    {
+      "title": "LEARN PUSH",
+      "status": true,
+      "id": 12
+    },
+    {
+      "title": "AHIRE",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "HEMANT",
+      "status": true,
+      "id": 14
+    },
+    {
+      "title": "DHANASHRI",
+      "status": false,
+      "id": 15
+    },
+    {
+      "title": "EXTRA",
+      "status": true,
+      "id": 16
+    },
+    {
+      "title": "SOMETHING",
+      "status": true,
+      "id": 17
+    },
+    {
+      "title": "NEWW",
+      "status": true,
+      "id": 18
+    },
+    {
+      "title": "DSA",
+      "status": false,
+      "id": 19
+    },
+    {
+      "title": "CODING",
+      "status": false,
+      "id": 20
+    },
+    {
+      "title": "REACT",
+      "status": true,
+      "id": 21
+    },
+    {
+      "title": "LINKLIST",
+      "status": false,
+      "id": 22
+    },
+    {
+      "title": "RECURSION",
+      "status": false,
+      "id": 23
+    },
+    {
+      "title": "BACKTRACKING",
+      "status": false,
+      "id": 24
+    },
+    {
+      "title": "STACK",
+      "status": false,
+      "id": 25
+    },
+    {
+      "title": "QUEUE",
+      "status": false,
+      "id": 26
+    },
+    {
+      "title": "NODE",
+      "status": false,
+      "id": 27
+    },
+    {
+      "title": "VS CODE",
+      "status": false,
+      "id": 28
+    },
+    {
+      "title": "Z-SECURITY",
+      "status": false,
+      "id": 29
+    },
+    {
+      "title": "LAST",
+      "status": false,
+      "id": 30
+    }
+  ]
+}
