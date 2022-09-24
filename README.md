@@ -1,6 +1,8 @@
 # Todo-List-with-All-Functionality
 
+Todo-List-with-All-Functionality. This is an Individual Project to manage To do list and in this you can add the todos, remove it and also change their statuses
 
+### i used React, Redux, Filter, JSON server, ES6 tech here
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
