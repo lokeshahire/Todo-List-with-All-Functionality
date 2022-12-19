@@ -8,12 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##  Live Link : https://lokesh-todo-all-functionality.netlify.app/
 
-In the project directory, you can run:
+In the project directory, you can run
 
-### `npm start`
-
-Runs the app in the development mode.\
-
+<img src="https://miro.medium.com/max/875/1*5okRkZpCr3qWTrOq_Mapeg.png"/>
 
 
 
